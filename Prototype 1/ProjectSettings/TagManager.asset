@@ -4,8 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Coin
   - Fire
-  - Barels
+  - Time
+  - Won
   layers:
   - Default
   - TransparentFX
